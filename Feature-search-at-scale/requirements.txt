@@ -1,0 +1,16 @@
+pytorch==1.10
+cudatoolkit==11.3
+torchvision==0.12
+tensorboard==2.9
+numpy==1.22
+scipy==1.7
+pillow==9.0
+scikit-learn==1.1.1
+scikit-image==0.18
+matplotlib==3.5
+seaborn==0.11
+pandas==1.4.1
+tqdm==4.62
+faiss-gpu==1.7
+tensorflow==2.9
+opencv-python
